@@ -7,7 +7,7 @@ If there is not a single living cell left on the field or no changes occur, the 
 
 Before starting the game you need to:
 - select speed from 1 to 500
-- select fill density (2 is the highest)
+- select fill density (2 is the highest, using only in the mode one)
 - select a game mode (you can add your own modes to the functions init_Map)
 
 IMPORTANT: select the correct size of the console window before starting the game.
