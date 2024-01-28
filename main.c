@@ -205,6 +205,5 @@ void show_Map(char(*map)[WIDTH+1], int height)
         printf("\n");
     }
     printf("Press Esc to exit");
-
 }
 
