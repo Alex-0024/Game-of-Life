@@ -31,7 +31,7 @@ int main()
     srand(time(NULL));
 
     char Map[HEIGHT][WIDTH+1];        // array for the playing field
-    char Mas[HEIGHT][WIDTH+1] = {};   // an array for storing the results of calculations of game conditions
+    char Mas[HEIGHT][WIDTH+1] = {};   // array for storing the results of calculations of game conditions
     int speed, density, mode;
 
     show_Start(&speed, &density, &mode);
