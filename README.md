@@ -13,8 +13,14 @@ Before starting the game you need to:
 IMPORTANT: select the correct size of the console window before starting the game.
 The repository contains 3 executable files with different console window sizes
 
+![Image alt](https://github.com/Alex-0024/Game-of-Life/blob/main/LifeShow_0.png)
+
 ![Image alt](https://github.com/Alex-0024/Game-of-Life/blob/main/LifeShow_1.png)
 
 ![Image alt](https://github.com/Alex-0024/Game-of-Life/blob/main/LifeShow_2.png)
 
 ![Image alt](https://github.com/Alex-0024/Game-of-Life/blob/main/LifeShow_3.png)
+
+![Image alt](https://github.com/Alex-0024/Game-of-Life/blob/main/LifeShow_4.png)
+
+![Image alt](https://github.com/Alex-0024/Game-of-Life/blob/main/LifeShow_5.png)
