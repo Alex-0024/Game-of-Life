@@ -14,3 +14,4 @@ IMPORTANT: select the correct size of the console window before starting the gam
 The repository contains 3 executable files with different console window sizes
 
 ![Image alt](https://github.com/Alex-0024/Game-of-Life/blob/main/LifeShow_1.png)
+![Image alt](https://github.com/Alex-0024/Game-of-Life/blob/main/LifeShow_2.png)
